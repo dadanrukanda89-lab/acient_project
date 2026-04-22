@@ -1,7 +1,9 @@
-.ssh/
-.cache/
-node_modules/
-storage/
-Android/
-.ssh/
-.termux/
+.screen
+.screen/*
+.termux
+.termux/*
+storage
+storage/*
+.git
+.git/*
+.*
